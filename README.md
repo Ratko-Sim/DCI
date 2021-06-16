@@ -1,2 +1,2 @@
 # DCI
-exercises
+exercises and lessons
